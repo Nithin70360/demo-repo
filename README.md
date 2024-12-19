@@ -1,2 +1,2 @@
 ##Demo of GitHub Intro
-This is repo
+This is repo of git
